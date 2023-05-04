@@ -2,7 +2,7 @@ pipeline:
    deploy:
     image: node:18
     commands:
-    - npx wrangler pages publish static-deployment --project-name=$CLOUDFLARE_PAGES_PROJECT_NAME
+    - npx wrangler pages publish static-deployment --project-name=$CLOUDFLARE_PAGES_PROJECT_NAME --branch=main
     secrets:
     - cloudflare_account_id
     - cloudflare_api_token
