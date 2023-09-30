@@ -1,9 +1,9 @@
-nav {
+.navbar {
   background-color: LimeGreen;
 }
 
 .banner {
-  background-image: url('https://design.thetntlabs.tk/banner/banner-1920x650.png');
+  background-image: url('https://design.thetntlabs.us.to/banner/banner-1920x650.png');
   height: 22rem;
   padding: 8rem 0;
   text-align: center;
