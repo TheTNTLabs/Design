@@ -2,5 +2,5 @@ This work by TheTNTLabs is licensed under a Creative Commons Attribution-ShareAl
 https://creativecommons.org/licenses/by-sa/3.0/
 
 Certain categories of material in this work include materials from the following sources:
-* green-pixelated-squares-background-with-gradient.png (Craiyon, AI Image Generator -- Public Domain)
-* TNT.png (BlockMen -- CC BY-SA 3.0)
+green-pixelated-squares-background-with-gradient.png (Craiyon, AI Image Generator - Public Domain)
+TNT.png (BlockMen - CC BY-SA 3.0)
