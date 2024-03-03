@@ -13,3 +13,11 @@
   position: relative;
   overflow: hidden;
 }
+
+#navbar-toggler-checkbox:checked ~ .collapse {
+  display: block;
+}
+
+#navbar-toggler-checkbox {
+  display: none;
+}
