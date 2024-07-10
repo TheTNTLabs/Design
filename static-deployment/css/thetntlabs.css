@@ -1,12 +1,12 @@
-.navbar {
-  background-color: LimeGreen;
+.bg-thetntlabs {
+  background-color: #32CD32;
 }
 
 .hero {
   background: #0005;
   background-blend-mode: darken;
-  background-image: url('https://design.thetntlabs.us.to/img/banner-1920x650.png');
-  color: #ffffff;
+  background-image: url('https://design.thetntlabs.us.to/img/hero-1920x650.png');
+  color: #FFFFFF;
   height: 22rem;
   padding: 8rem 0;
   text-align: center;
