@@ -3,14 +3,22 @@
 }
 
 .hero {
-  background: #0005;
-  background-blend-mode: darken;
-  color: #FFFFFF;
   height: 22rem;
-  padding: 8rem 0;
-  text-align: center;
   position: relative;
   overflow: hidden;
+}
+
+.hero-image {
+  filter: brightness(75%);
+}
+
+.hero-text {
+  color: #FFFFFF;
+  left: 50%;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  transform: translate(-50%, -50%);
 }
 
 #navbar-toggler-checkbox:checked ~ .collapse {
