@@ -2,10 +2,10 @@ License
 =======
 
 ## Bootstrap
-https://codeberg.org/TheTNTLabs/Design/src/branch/main/static-deployment/bs/LICENSE.txt
+https://design.thetntlabs.us.to/bs/LICENSE.txt
 
 ## Font Awesome
-https://codeberg.org/TheTNTLabs/Design/src/branch/main/static-deployment/fa/LICENSE.txt
+https://design.thetntlabs.us.to/fa/LICENSE.txt
 
 ## TheTNTLabs
-https://codeberg.org/TheTNTLabs/Design/src/branch/main/static-deployment/ttl/LICENSE.txt
+https://design.thetntlabs.us.to/ttl/LICENSE.txt

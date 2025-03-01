@@ -1,1 +1,1 @@
-Please refer to the files with the '.license' extension.
+Append '.license' to the end of the file name to view the license.
