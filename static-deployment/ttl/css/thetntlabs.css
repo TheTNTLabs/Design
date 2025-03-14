@@ -1,5 +1,5 @@
 .bg-main {
-  background-color: #32CD32;
+  background-color: #32cd32;
 }
 
 .hero {
@@ -13,7 +13,7 @@
 }
 
 .hero-body {
-  color: #FFFFFF;
+  color: var(--bs-white);
   left: 50%;
   position: absolute;
   text-align: center;
@@ -31,4 +31,8 @@
 
 a {
   color: inherit;
+}
+
+tr:target {
+  border: 2px solid var(--bs-primary);
 }
