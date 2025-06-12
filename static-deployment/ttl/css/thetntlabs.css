@@ -33,6 +33,6 @@ a {
   color: inherit;
 }
 
-tr:target {
+section:target > div > .card, tr:target {
   border: 2px solid var(--bs-primary);
 }
