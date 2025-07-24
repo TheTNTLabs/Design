@@ -21,20 +21,6 @@
   transform: translate(-50%, -50%);
 }
 
-ul.list-horizontal li:not(:first-child):before {
-  content: "|";
-}
-
-ul.list-horizontal li {
-  display: inline-block;
-  list-style-type: none;
-}
-
-ul.list-horizontal {
-  margin: 0;
-  padding: 0;
-}
-
 #navbar-toggler-checkbox:checked ~ .collapse {
   display: block;
 }
@@ -49,4 +35,18 @@ a {
 
 section:target > div > .card, tr:target {
   border: 2px solid var(--bs-primary);
+}
+
+ul.list-horizontal li:not(:first-child):before {
+  content: "|";
+}
+
+ul.list-horizontal li {
+  display: inline-block;
+  list-style-type: none;
+}
+
+ul.list-horizontal {
+  margin: 0;
+  padding: 0;
 }
