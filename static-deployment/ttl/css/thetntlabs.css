@@ -1,8 +1,8 @@
-[data-bs-theme="dark"] .bg-ttl {
+[data-bs-theme="dark"] .bg-ttl-primary {
   background-color: #196719;
 }
 
-[data-bs-theme="light"] .bg-ttl {
+[data-bs-theme="light"] .bg-ttl-primary {
   background-color: #32cd32;
 }
 
@@ -23,6 +23,14 @@
   text-align: center;
   top: 50%;
   transform: translate(-50%, -50%);
+}
+
+.btn-ttl-body {
+  --bs-btn-bg: var(--bs-body-bg);
+  --bs-btn-border-color: var(--bs-border-color);
+  --bs-btn-focus-shadow-rgb: var(--bs-body-bg-rgb);
+  --bs-btn-hover-bg: var(--bs-tertiary-bg);
+  --bs-btn-hover-border-color: var(--bs-border-color-translucent);
 }
 
 .table {
