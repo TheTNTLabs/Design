@@ -25,6 +25,10 @@
   transform: translate(-50%, -50%);
 }
 
+.table {
+  overflow: hidden;
+}
+
 #navbar-toggler-checkbox:checked ~ .collapse {
   display: block;
 }
