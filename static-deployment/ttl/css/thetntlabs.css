@@ -1,5 +1,9 @@
-.bg-ttl {
+[data-bs-theme="dark"] .bg-ttl {
   background-color: #196719;
+}
+
+[data-bs-theme="light"] .bg-ttl {
+  background-color: #32cd32;
 }
 
 .hero {
