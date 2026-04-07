@@ -1,13 +1,11 @@
-/* || Themes */
+/* || Background Colors */
 
-[data-bs-theme="dark"] {
-  --bs-nav-pills-link-active-bg: #196719;
-  --bs-primary-rgb: rgb(25 103 25);
+[data-bs-theme="dark"] .ttl-bg-primary {
+  background-color: #196719;
 }
 
-[data-bs-theme="light"] {
-  --bs-nav-pills-link-active-bg: #32cd32;
-  --bs-primary-rgb: rgb(50 205 50);
+[data-bs-theme="light"] .ttl-bg-primary {
+  background-color: #32cd32;
 }
 
 /* || Buttons */
@@ -54,6 +52,16 @@
 
 .ttl-navbar-toggler:checked ~ .collapse {
   display: block;
+}
+
+/* || States */
+
+[data-bs-theme="dark"] .ttl-active {
+  background-color: #196719;
+}
+
+[data-bs-theme="light"] .ttl-active {
+  background-color: #32cd32;
 }
 
 /* || General Styles */
